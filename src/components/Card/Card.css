@@ -4,6 +4,7 @@
   background-color: darkslategrey;
   border: 1px solid whitesmoke;
   border-radius: 5px;
+  max-width: 500px;
   padding: 25px;
   cursor: pointer;
   -moz-osx-font-smoothing: grayscale;
